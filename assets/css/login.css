@@ -1,0 +1,14 @@
+body {
+    /* Set the background image */
+    background-image: url('https://unsplash.com/photos/a-vase-filled-with-lots-of-colorful-flowers-M3mhS4YQn08');
+    /* Specify background size and behavior */
+    background-size: cover; /* or 'contain' for a different behavior */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Fixed or scroll, depending on your preference */
+    /* Set background color as a fallback */
+    background-color: #f0f0f0; /* Choose a background color in case the image is not available */
+    /* Adjust other styles as needed */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
